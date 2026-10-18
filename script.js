@@ -5,7 +5,7 @@
 */
 "use strict";
 
-const WHATSAPP_NUMBER = "91XXXXXXXXXX"; // TODO: Replace with your real WhatsApp number.
+const WHATSAPP_NUMBER = "6268643647"; // TODO: Replace with your real WhatsApp number.
 const DEFAULT_WHATSAPP_MESSAGE = "Hello TaxBridge Solutions, I would like to enquire about your services.";
 
 const menuToggle = document.getElementById("menuToggle");
