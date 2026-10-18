@@ -1,7 +1,7 @@
 /*
   TaxBridge Solutions website JavaScript
   IMPORTANT: Replace WHATSAPP_NUMBER with your WhatsApp number including country code.
-  Example India: "919876543210" (no +, spaces or hyphens).
+  Example India: "6268643647" (no +, spaces or hyphens).
 */
 "use strict";
 
