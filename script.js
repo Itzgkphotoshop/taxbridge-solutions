@@ -19,7 +19,7 @@ function getWhatsAppUrl(message) {
   if (!numberIsConfigured) {
     return null;
   }
-  return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
+  return `https://wa.me/${6268643647}?text=${encodeURIComponent(message)}`;
 }
 
 function updateWhatsAppLink() {
